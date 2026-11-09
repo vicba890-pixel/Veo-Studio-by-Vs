@@ -1,0 +1,6 @@
+{
+  "name": "Veo Studio by Vs",
+  "description": "Veo Studio by Vs — High-class cinematic video production studio powered by Veo 3.1, Gemini, and the native VMSB© Vectorized Stream Binary Engine with real-time MCTS and Berne Protocol 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
